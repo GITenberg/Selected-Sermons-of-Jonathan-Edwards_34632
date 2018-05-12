@@ -1,0 +1,38 @@
+_repo: Selected-Sermons-of-Jonathan-Edwards_34632
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Edwards, Jonathan
+    birthdate: 1703
+    deathdate: 1758
+    gutenberg_agent_id: '37133'
+    url: http://www.gutenberg.org/2009/agents/37133
+  editor:
+    agent_name: Gardiner, H. Norman (Harry Norman)
+    alias: Gardiner, Harry Norman
+    birthdate: 1855
+    deathdate: 1927
+    gutenberg_agent_id: '37134'
+    url: http://www.gutenberg.org/2009/agents/37134
+description: ''
+gutenberg_issued: '2010-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34632'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Edwards, Jonathan, 1703-1758'
+- !lcsh 'Sermons, American'
+- !lcsh 'Congregational churches -- Sermons'
+tableOfContents: Introduction -- God glorified in man's dependence -- The reality
+  of spiritual light -- Ruth's resolution -- The many mansions -- Sinners in the hands
+  of an angry God -- A strong rod broken and withered -- Farewell sermon.
+title: Selected Sermons of Jonathan Edwards
+url: http://www.gutenberg.org/ebooks/34632
